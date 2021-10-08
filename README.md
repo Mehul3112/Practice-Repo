@@ -1,2 +1,8 @@
 # Practice-Repo
-To learn basics of GitHub
+## hacktoberfest event
+To learn basics of GitHub  
+  
+and to earn knowledge
+**Hello**
+***fyui***
+*eratyu*
